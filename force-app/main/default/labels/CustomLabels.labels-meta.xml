@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>PIT_Warn_MissingBundleParent</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>PIT warning when selected children are missing their parent bundle</shortDescription>
+        <value>One or more selected stories belong to the User Story Bundle {0}. The parent bundle must be promoted alongside its child stories. Please select the parent bundle or remove the child stories from your selection to proceed.</value>
+    </labels>
+</CustomLabels>
